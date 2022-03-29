@@ -6,6 +6,7 @@ Your son went to fight against Hitler's troops. You did not hear about him since
 
 ## Text
 
+```
 Hey Dad.
 
 It has been a while since we last talk. I sent my last letter on 12/01 and I am writing this one on 12/06. You never answered anyway. I can't even tell if you care about what happens to me. I still remember the last automn we passed together. This date will be anchored in my memory, it was a friday, the 11/10. We went for a walk in the forest, facing the wind. The trees were beautiful. We did not talk much, and yet, we said so much. I told you I was writing this on 12 of June. Today is the anniversary of mom's death. I miss her so much.
@@ -17,3 +18,4 @@ I have been deployed for 2 years now. Fighting in France, since the 12 April 194
 I am running out of ink and paper. I hope to see you soon.
 
 I love you Dad.
+```
